@@ -52,6 +52,6 @@
 
 ###
 
-<h1 align="left">Visit my portfolio on <a href="https://mateogurrea.netlify.app/">Mateo Gurrea</a></h1>
+<h1 align="left">Visit my portfolio on <a target="_blank" href="https://mateogurrea.netlify.app/">Mateo Gurrea</a></h1>
 
 ###
