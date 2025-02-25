@@ -9,6 +9,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="300" src="https://mateogurrea.netlify.app/assets/personaje-BCxnp9JN.svg"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
   <img width="12" />
@@ -30,24 +36,22 @@
 ###
 
 <div align="left">
+  <img src="https://profile-counter.glitch.me/mateogurrea02/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/mateogurrea/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mategurrea@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mateogurrea02/mateogurrea02/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateogurrea02.mateogurrea02&"  />
-</div>
+<h1 align="left">Visit my portfolio on <a href="https://mateogurrea.netlify.app/">Mateo Gurrea</a></h1>
 
 ###
